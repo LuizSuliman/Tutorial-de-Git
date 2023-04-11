@@ -106,6 +106,8 @@ Está é a ordem. Revisando os comandos:
 
 > cd Tutorial-de-Git
 
+> git pull
+
 ...Alterações...
 
 > git add .
