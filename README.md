@@ -22,7 +22,7 @@ Para abrir o CMD na pasta desejada, selecione **Abrir no Terminal** ou **Prompt 
 
 Agota vamos para os comandos! No terminal (GitBash ou CMD), insira o seguinte comando:
 
-> git clone https://github.com/LuizSuliman/Tutorial-de-Git.git
+> git clone link_de_clonagem_do_seu_repositorio
 
 Obs.: No GitBash, em vez de CTRL + V para colar o link, use SHIFT + INSERT
 
