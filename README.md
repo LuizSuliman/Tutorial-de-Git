@@ -9,7 +9,7 @@ Antes de alterar um repositório remoto do GitHub, precisamos CLONÁ-LO para a n
 Fazemos isso através do comando **git clone *link_do_repositório***
 
 Você pode encontrar o link de clonagem de um repositório no botão VERDE escrito "CODE".
-Copie o link deste repositório, e depois abra o Explorador de Arquivos do Windows.
+Copie o link do seu repositório, e depois abra o Explorador de Arquivos do Windows.
 
 Nele, crie uma pasta para colocar todos os seus repositórios do GitHub.
 DICA: Minha recomendação é criar uma pasta chamada **GitHub** na pasta **Documentos**
@@ -27,7 +27,7 @@ Agota vamos para os comandos! No terminal (GitBash ou CMD), insira o seguinte co
 Obs.: No GitBash, em vez de CTRL + V para colar o link, use SHIFT + INSERT
 
 Depois disso, o Git criará uma pasta com o nome deste repositório.
-Use o comando **CD** para entrar nessa nova pasta:
+Use o comando **CD** para entrar nessa nova pasta. No meu caso é:
 
 > cd Tutorial-de-Git
 
@@ -102,9 +102,9 @@ Está é a ordem. Revisando os comandos:
 
 > git config --global user.email "Seu Email do GitHub"
 
-> git clone https://github.com/LuizSuliman/Tutorial-de-Git.git
+> git clone link_do_seu_repositorio
 
-> cd Tutorial-de-Git
+> cd Nome-da-Pasta-Criada
 
 > git pull
 
