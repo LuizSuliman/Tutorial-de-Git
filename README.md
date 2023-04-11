@@ -110,6 +110,8 @@ Está é a ordem. Revisando os comandos:
 
 ...Alterações...
 
+> git pull (só pra garantir)
+
 > git add .
 
 > git commit -m "DESCREVA AS ALTERAÇÕES QUE FEZ NESSE ESPAÇO ENTRE ASPAS"
