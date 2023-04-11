@@ -126,6 +126,7 @@ Pratique esses comandos e se desafie a usar o terminal, e quando menos perceber,
 ## E chegamos ao fim! (Ufa!)
 
 E com isso, você está pronto para finalmente usar um terminal ao invés do site do GitHub para trabalhar com a sua equipe!
+Se quiser se aprofundar em Git, confira a documentação oficial: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
 Se tiver alguma dúvida ou sugestão, é só entrar em contato!
 
 #### Bons estudos!
